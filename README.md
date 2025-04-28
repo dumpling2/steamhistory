@@ -23,5 +23,5 @@
     - SteamID64の取得:
         1. SteamプロフィールページのURLから確認できます。
         2. 例：`https://steamcommunity.com/profiles/XXXXXXXXXXXXXX/`
-        3. 上記のURLの場合、SteamID64は `XXXXXXXXXXXXXX` です。
+        3. 上記のURLの場合、SteamIDは `XXXXXXXXXXXXXX` です。
 3. コードの先頭にある `userdata.set()` を使用して、APIキーとSteamIDを設定します。
